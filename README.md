@@ -3,18 +3,25 @@
 </h1>
 
 # Indice
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#como-baixar-o-projeto)
-- [Como iniciar a aplicação](#como-iniciar-a-aplicação)
+
+<!--ts-->
+   * [Sobre](#-sobre)
+   * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+   * [Como baixar o projeto](#-como-baixar-o-projeto)
+   * [Como iniciar a aplicação](#-como-iniciar-a-aplicação)
+      * [Web](#web)
+      * [Mobile](#mobile)
+      * [API](#api)
+<!--te-->
+
 
 # 📝 Sobre
 
 O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next Level Week**, incluido a versão web, mobile e a API para integrar com o back-end.
 
-# ✅ Tecnologias Abordadas
+# ✅ Tecnologias Utilizadas
 
-**Versão Web**
+#Versão Web**
 - [ReactJS](https://pt-br.reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
@@ -38,7 +45,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
 # 💻 Como iniciar a aplicação
 
-**Versão Web**
+## Web
 ```bash
 
   # Entrar no repositório
@@ -52,7 +59,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
 ```
 
-**Versão Mobile**
+## Mobile
 ```bash
 
   # Entrar no repositório
@@ -66,7 +73,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
 ```
 
-**API**
+## API
 ```bash
 
   # Entrar no repositório

@@ -32,7 +32,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 ```bash
 
   #Clonar o repositório
-  $git clone https://github.com/phellippe/Proffy
+  $ git clone https://github.com/phellippe/Proffy
 
 ```
 

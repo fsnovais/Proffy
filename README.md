@@ -12,7 +12,7 @@
 
 O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next Level Week**, incluido a versão web, mobile e a API para integrar com o back-end.
 
-# :happy Tecnologias Abordadas
+# :happy: Tecnologias Abordadas
 
 - **Versão Web**
 - [ReactJS](https://pt-br.reactjs.org)

@@ -8,27 +8,27 @@
 - [Como baixar o projeto](#como-baixar-o-projeto)
 - [Como iniciar a aplicação](#como-iniciar-a-aplicação)
 
-# Sobre
+# 📝 Sobre
 
 O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next Level Week**, incluido a versão web, mobile e a API para integrar com o back-end.
 
-# :happy: Tecnologias Abordadas
+# ✅ Tecnologias Abordadas
 
-- **Versão Web**
+**Versão Web**
 - [ReactJS](https://pt-br.reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-- **Versão Mobile**
+**Versão Mobile**
 - [ReactNative](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-- **API**
+**API**
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [KNEX](http://knexjs.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-#  Como baixar o projeto
+# 💾 Como baixar o projeto
 ```bash
 
   #Clonar o repositório
@@ -36,7 +36,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
 ```
 
-#  Como iniciar a aplicação
+# 💻 Como iniciar a aplicação
 
 **Versão Web**
 ```bash

@@ -1,5 +1,5 @@
 <h1 display="inline">
-  <img src="web/github/git.gif">
+  <img src="web/github/gif.gif">
 </h1>
 
 # Indice

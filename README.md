@@ -50,15 +50,19 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
   # Entrar no repositório
   $ cd Proffy/web
-
-  # Usando npm
+```
+#### Usando npm
+```bash
+ 
   # Instalar as dependencias
   $ npm install 
 
   # Inciar o projeto
   $ npm start
   
-  #usando Yarn (Recomendado)
+```
+#### usando Yarn (Recomendado)
+```bash
   # Instalar as dependencias
   $ yarn install 
 
@@ -72,15 +76,19 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
   
   # Entrar no repositório
   $ cd Proffy/mobile
-  
-  # Usando npm
+```
+#### Usando npm
+```bash
+ 
   # Instalar as dependencias
   $ npm install 
 
   # Inciar o projeto
   $ npm start
   
-  #usando Yarn (Recomendado)
+```
+#### usando Yarn (Recomendado)
+```bash
   # Instalar as dependencias
   $ yarn install 
 
@@ -94,15 +102,19 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
   # Entrar no repositório
   $ cd Proffy/server
-
-  # Usando npm
+```
+#### Usando npm
+```bash
+ 
   # Instalar as dependencias
   $ npm install 
 
   # Inciar o projeto
   $ npm start
-  
-  #usando Yarn (Recomendado)
+
+```
+#### usando Yarn (Recomendado)
+```bash
   # Instalar as dependencias
   $ yarn install 
 
@@ -110,5 +122,4 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
   $ yarn start
 
 ```
-
 Desenvolvido por Felipe Novais

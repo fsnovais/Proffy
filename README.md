@@ -21,7 +21,7 @@ O sistema **Proffy** é uma aplicação completa desenvolvida durante a **Next L
 
 # ✅ Tecnologias Utilizadas
 
-#Versão Web**
+**Versão Web**
 - [ReactJS](https://pt-br.reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
